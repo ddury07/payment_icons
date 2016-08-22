@@ -102,4 +102,8 @@
   name: netbanking
   label: NetBanking
   group: bank_transfers
+  -
+  name: klarna
+  label: Klarna
+  group: other
 
